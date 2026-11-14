@@ -23,3 +23,4 @@ On Android 12+ allow "exact alarms"; allow background running for best reliabili
 ## Control website
 `http://IP:8080` from a phone on the shared network, PIN shown in the app. Turn Direct/Hotspot on/off, edit schedules.
 # WifiDirectPlus
+# WifiDirectPlus
